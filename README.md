@@ -1,5 +1,5 @@
-# Terranite
-Terranite is a folia compatible World Edit plugin copy. It is based on the original World Edit plugin, with a few tweaks.
+# Terranite paper
+Terranite is a folia compatible World Edit plugin copy. It is based on the original World Edit plugin, with a few tweaks. This repository is focussed on paper development. Same functionalities as the original folia variant.
 
 Check published version for easy download:<br/>
 https://modrinth.com/plugin/terranite
