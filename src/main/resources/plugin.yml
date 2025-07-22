@@ -1,5 +1,5 @@
 name: Terranite
-version: '1.1.0'
+version: '1.2.0'
 main: jinzo.terranite.Terranite
 api-version: '1.21'
 commands:
@@ -14,4 +14,16 @@ permissions:
     default: op
   terranite.admin:
     description: Allows use of administrative commands for Terranite
+    default: op
+  terranite.exempt.*:
+    description: Allows players to bypass all restrictions for Terranite commands
+    default: op
+  terranite.exempt.selection:
+    description: Allows players to bypass selection requirements for Terranite commands
+    default: op
+  terranite.exempt.blockedBlocks:
+    description: Allows players to bypass block requirements for Terranite commands
+    default: op
+  terranite.exempt.notifiedBlocks:
+    description: Allows players to bypass notification requirements for Terranite commands
     default: op
